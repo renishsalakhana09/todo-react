@@ -1,0 +1,32 @@
+#newtask {
+  position: relative;
+}
+
+#newtask input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  background-color: #f8f8f8;
+}
+
+#newtask input:focus {
+  outline: none;
+  border: 1px solid #aaa;
+  border-color: #0d75ec;
+  background-color: #fff;
+  box-shadow: 0 0 10px #719ece;
+}
+
+#newtask button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  cursor: pointer;
+}
