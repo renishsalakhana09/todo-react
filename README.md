@@ -10,7 +10,7 @@
 
   return (
     <div style={{ margin: 20 }}>
-      <h4 align="center">hello</h4>
+      
       <Notification />
       <hr></hr>
       <h4
