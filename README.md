@@ -2,7 +2,7 @@
 
 
 ## Description
-### Sample todo app built with the React/React `Built-in HOOKS` framework (has todo's incomplete and todo's complete section) 
+#### Sample todo app built with the React/React `Built-in HOOKS` framework (has todo's incomplete and todo's complete section) 
 
 ## Deployment 
 Deployed Website : https://renishsalakhana09.github.io/todo-react/
