@@ -2,8 +2,9 @@
 
 ### Sample todo app built with the React/React `Built-in HOOKS` framework (has todo's incomplete and todo's complete section) 
 
-## `containers/todoContainer`
-## &rarr; index.js 
+
+### `containers/todoContainer`
+### &rarr; index.js 
 
 ```JSX
 
