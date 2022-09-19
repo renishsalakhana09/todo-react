@@ -18,8 +18,7 @@ Deployed Website : https://renishsalakhana09.github.io/todo-react/
 #### `Setp 4:` For a project page, ensure your project’s settings use `gh-pages`
 #### `Step 5:` Optionally, configure the domain
 
-#### to know more visit : https://create-react-app.dev/docs/deployment/#step-2-install-gh-pages-and-add-deploy-to-scripts-in-packagejson
-#### :heavy_check_mark:All things will run smoothly on py`jupyter notebook` to know more and steps to install jupyter notebook [click Here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/)
+#### to know more visit :[click Here](https://create-react-app.dev/docs/deployment/#step-2-install-gh-pages-and-add-deploy-to-scripts-in-packagejson)
 
 ### `containers/todoContainer`
 ### &rarr; index.js 
