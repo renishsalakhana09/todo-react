@@ -18,7 +18,7 @@ Deployed Website : https://renishsalakhana09.github.io/todo-react/
 #### `Setp 4:` For a project page, ensure your project’s settings use `gh-pages`
 #### `Step 5:` Optionally, configure the domain
 
-#### to know more visit :[click Here](https://create-react-app.dev/docs/deployment/#step-2-install-gh-pages-and-add-deploy-to-scripts-in-packagejson)
+#### to know more : [click Here](https://create-react-app.dev/docs/deployment/#step-2-install-gh-pages-and-add-deploy-to-scripts-in-packagejson)
 
 ### `containers/todoContainer`
 ### &rarr; index.js 
