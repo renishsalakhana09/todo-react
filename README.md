@@ -10,12 +10,13 @@ Deployed Website : https://renishsalakhana09.github.io/todo-react/
 ## Deployed using
 ### Github pages 
 
-`Note: this feature is available with react-scripts@0.2.0 and higher`
-#### `step 1:` Add `homepage` to `package.json`
-#### `step 2:` Install `gh-pages` and add `deploy` to `scripts` in `package.json`
-#### `setp 3:` Deploy the site by running `npm run deploy`
-#### `setp 4:` For a project page, ensure your project’s settings use `gh-pages`
-#### `step 5:` Optionally, configure the domain
+`Note:This feature is available with react-scripts@0.2.0 and higher`
+
+#### `Step 1:` Add `homepage` to `package.json`
+#### `Step 2:` Install `gh-pages` and add `deploy` to `scripts` in `package.json`
+#### `Setp 3:` Deploy the site by running `npm run deploy`
+#### `Setp 4:` For a project page, ensure your project’s settings use `gh-pages`
+#### `Step 5:` Optionally, configure the domain
 
 #### to know more visit : https://create-react-app.dev/docs/deployment/#step-2-install-gh-pages-and-add-deploy-to-scripts-in-packagejson
 
@@ -132,6 +133,4 @@ Deployed Website : https://renishsalakhana09.github.io/todo-react/
     </div>
   );
 };
-
-
 ```
