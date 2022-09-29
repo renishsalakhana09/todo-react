@@ -14,8 +14,8 @@ Deployed Website : https://renishsalakhana09.github.io/todo-react/
 
 #### `Step 1:` Add `homepage` to `package.json`
 #### `Step 2:` Install `gh-pages` and add `deploy` to `scripts` in `package.json`
-#### `Setp 3:` Deploy the site by running `npm run deploy`
-#### `Setp 4:` For a project page, ensure your project’s settings use `gh-pages`
+#### `Step 3:` Deploy the site by running `npm run deploy`
+#### `Step 4:` For a project page, ensure your project’s settings use `gh-pages`
 #### `Step 5:` Optionally, configure the domain
 
 #### to know more : [click Here](https://create-react-app.dev/docs/deployment/#step-2-install-gh-pages-and-add-deploy-to-scripts-in-packagejson)
